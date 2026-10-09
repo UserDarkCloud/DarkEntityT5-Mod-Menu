@@ -1,15 +1,6 @@
-# DarkEntityT5-Mod-Menu
 Plutonium Black Ops 1 (T5) zombies mod menu
 
-# Dark Entity T5 Zombies Mod Menu
-
-A Plutonium Black Ops 1 (T5) zombies mod menu for custom games and private lobbies. Made by UserDarkCloud.
-
 **Disclaimer:** This menu is for custom games only
-
-## Included
-
-- `DarkEntityT5`: the mod menu script
 
 ## Features
 
@@ -39,9 +30,8 @@ A Plutonium Black Ops 1 (T5) zombies mod menu for custom games and private lobbi
 
 1. Download `DarkEntityT5`
 2. Press `Win + R`, type `%localappdata%`, and press OK.
-3. Go to `Plutonium` → `storage` → `t5` → `raw` → `scripts` → `sp`. Create any missing folders along the way.
-4. Copy `DarkEntityT5` into the `sp` folder.
-5. Launch Plutonium T5 and start a zombies game.
+3. Go to `Plutonium` → `storage` → `t5` Drop `raw` Folder In
+4. Launch Plutonium T5 and start a zombies game.
 
 **Note:** The menu is host-only by default. Other players need the host to give it to them through All Players → player → Give / Take Mod Menu.
 
@@ -54,23 +44,6 @@ A Plutonium Black Ops 1 (T5) zombies mod menu for custom games and private lobbi
 | Scroll Down | Fire |
 | Select | Use |
 | Back / Close | Melee |
-
-## Patch Notes
-
-###
-- Fixed: menu options blacked out after reopening it about 30 seconds into a game
-- Fixed: Powerup drops now behave like normal powerups
-- Renamed: "Give All Perks" → "Perkaholic", "Cycle FOV" → "FOV", Zombies submenu title → "Zombies"
-- Added: Aimbot Menu below Teleport Menu
-- Give Perks
-- Powerups
-- Noclip
-- No Trap Damage
-- Lots More
-
-## Known Bugs
-
-None So Far
 
 ## Credits
 
